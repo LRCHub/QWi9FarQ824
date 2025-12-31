@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "伊っ達さ",
+  "base_artist": "マキシウキョウ",
+  "createdAt": "2025-12-31T10:14:58.389995Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "伊っ達さ",
+      "artist": "マキシウキョウ",
+      "has_synced": false,
+      "path": "select/pl_01_伊っ達さ_マキシウキョウ.txt"
+    }
+  ]
+}
